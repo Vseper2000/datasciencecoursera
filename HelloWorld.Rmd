@@ -2,7 +2,8 @@
 title: "HelloWorld"
 author: "Zian Ling"
 date: "2022-08-19"
-output: md_document
+output: md_document:
+    variant: markdown_githubt
 ---
 
 ```{r setup, include=FALSE}
