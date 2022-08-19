@@ -3,7 +3,7 @@ title: "HelloWorld"
 author: "Zian Ling"
 date: "2022-08-19"
 output: md_document:
-    variant: markdown_githubt
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
